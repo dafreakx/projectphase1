@@ -1,1 +1,1 @@
-[Diagramm anzeigen](https://github.com/dafreakx/projevtphase1/diagramm.drawio)
+[Diagramm anzeigen](https://github.com/dafreakx/projectphase1/diagramm.drawio)
